@@ -6,7 +6,7 @@ library(Rmisc)
 
 #-----------------Loading Dataset----------------------
 
-dataset <- read.csv("F:\\1.Masters in Data Science (Fast)\\Stats\\Assignments\\assignment no 4\\movies.csv")
+dataset <- read.csv("https://raw.githubusercontent.com/s-shakir/Movies-Data-Analysis/main/movies.csv")
 View(dataset)
 
 
